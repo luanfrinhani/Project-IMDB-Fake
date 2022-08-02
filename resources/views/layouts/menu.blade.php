@@ -22,7 +22,7 @@
                 <h4 class="kt-menu__section-text">@lang('system.label.imdb')</h4>
                 <i class="kt-menu__section-icon flaticon-more-v2"></i>
             </li>
-            <li id="menu_item_usuario" class="kt-menu__item " aria-haspopup="true">
+            <li id="menu_item_movie" class="kt-menu__item " aria-haspopup="true">
                 <a href="{{route('system.user.index')}}" class="kt-menu__link ">
                     <span class="kt-menu__link-icon">
                         <i class="fas fa-video"></i>
